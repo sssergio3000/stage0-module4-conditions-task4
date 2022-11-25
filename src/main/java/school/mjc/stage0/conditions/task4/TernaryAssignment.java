@@ -4,5 +4,10 @@ public class TernaryAssignment {
     public void assignAndPrintBasedOnWhichBigger(int first, int second) {
         int result;
         result = first>second?10:-10;
+        System.out.println(result);
+    }
+
+    public static void main(String[] args) {
+
     }
 }
